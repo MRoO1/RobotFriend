@@ -1,4 +1,4 @@
-# RobotFreind
+# RobotFriend
 
 To run the project:
 
